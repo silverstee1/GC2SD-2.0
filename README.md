@@ -31,7 +31,7 @@ R1,D1 are not necessary if you don't want to have LED in your adapter or want to
 
 **GC2SD V2.0 PCB**
 
-**R1:** 0402 470ohm Resistor - Digikey Part# 311-470LRCT-ND
+**R1:** 0402 470ohm Resistor - Digikey Part# 311-470LRCT-ND (you can use smaller value or larger value depending how bright you want it, 14ohm will be the brightest, I choose 470ohm as its what I had on hand and its not too bright)
 
 LCSC Part# C114877
 
