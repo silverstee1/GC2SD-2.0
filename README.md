@@ -39,7 +39,7 @@ LCSC Part# C114877
 
 LCSC Part# C2856703
 
-OR
+or
 
 0402 Blue Led 20ma (Dot on PCB footprint marks LED Cathode side) - Digikey Part# 1516-1215-1-ND
 
@@ -49,7 +49,7 @@ LCSC Part # C965797
 
 LCSC Part# C428454
 
-alt LCSC Part# C20624805 , C410348 , C381081 ,
+alt LCSC Part# C20624805 , C410348 , C381081
 
 **U1:** OR Gate IC - DigiKey Part# 296-1093-1-ND
 
