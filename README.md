@@ -1,7 +1,7 @@
 # GC2SD-2.0
 GC2SD 2.0 Upgrade PCB
 
-Replacement upgrade PCB for GC2SD to V2.0 for use on GameCube's Front Memcard Slot B
+Replacement upgrade PCB for GC2SD sold on aliexpress/amazon etc to V2.0 for use on GameCube's Front Memcard Slot B
 
 Based on the SD2SP2 2.0 made by Extrems, Thank you for your hard work!
 
